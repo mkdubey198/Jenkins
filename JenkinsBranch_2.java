@@ -1,5 +1,5 @@
 //This is Second File
-public class JenkinsBranch_2.java {
+public class JenkinsBranch_2 {
 	
 	public static void main(String [] args)
 	{
