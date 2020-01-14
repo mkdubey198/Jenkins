@@ -1,4 +1,4 @@
-public class JenkinsBranch_1.java {
+public class JenkinsBranch_1 {
 	
 	public static void main(String [] args)
 	{
